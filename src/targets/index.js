@@ -7,6 +7,7 @@ module.exports = {
   go: require('./go'),
   java: require('./java'),
   javascript: require('./javascript'),
+  kotlin: require('./kotlin'),
   node: require('./node'),
   objc: require('./objc'),
   ocaml: require('./ocaml'),
